@@ -1,0 +1,13 @@
+uv add pandas
+uv add numpy
+uv add scikit-learn
+uv add matplotlib
+uv add seaborn
+uv add jupyter
+uv add scikit-learn
+uv add lightgbm
+uv add statsmodels
+uv add prophet
+uv add streamlit
+uv add fastapi
+uv add uvicorn
